@@ -1,0 +1,14 @@
+{
+    "name": "os.xcode.theme",
+    "title": "xcode theme",
+    "description": "An Brackets theme for a more native experience on OS X Yosemite",
+    "version": "1.0.1",
+    "homepage": "https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets",
+    "author": "Avril Alejandro (https://twitter.com/AVRIL_ALEJANDRO)",
+    "theme": {
+        "file": "xcode.theme.css",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
