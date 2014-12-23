@@ -1,0 +1,144 @@
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-track-piece {
+    background-color: transparent;
+}
+::-webkit-scrollbar-thumb:vertical {
+    width: 4px;
+    height: 10px;
+    box-shadow: 0 0 0 1px #a8a8a8 inset;
+    background: #bcbcbc;
+}
+/*::-webkit-scrollbar-button:vertical {
+    height: 20px;
+    background: #505050;
+}*/
+::-webkit-scrollbar-button:vertical:decrement {
+    background-image: url(http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Caret_up_font_awesome.svg/512px-Caret_up_font_awesome.svg.png);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    opacity: 0.6;
+}
+::-webkit-scrollbar-button:vertical:increment {
+    background-image: url(http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Caret_down_font_awesome.svg/512px-Caret_down_font_awesome.svg.png);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    opacity: 0.6;
+}
+::-webkit-scrollbar-corner {
+    background: none;
+}
+.CodeMirror-activeline{
+    background-color: #fefed5;
+}
+div.CodeMirror-cursors .CodeMirror-cursor {
+    border-left: 2px solid #c616d4;
+}
+span.CodeMirror-selectedtext {
+    background: none;
+}
+span.cm-qualifier {
+    color: #445588;
+}
+CodeMirror-code {
+    margin-left: 1px;
+}
+.CodeMirror-focused .cm-matchhighlight {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAFklEQVQI12NgYGBgkKzc8x9CMDAwAAAmhwSbidEoSQAAAABJRU5ErkJggg==);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    border: none;
+}
+span.cm-m-css.cm-keyword {
+    color: #c616d4;
+}
+span.cm-property {
+    color: #333333;
+    font-weight: 600;
+}
+span.cm-atom {
+    color: #009999;
+}
+span.cm-m-css.cm-tag {
+    color: #c39a10;
+}
+span.cm-comment {
+    color: #999988;
+}
+span.cm-string {
+    /*color: #606aa1;*/
+    color: #cc7087;
+}
+span.cm-m-css.cm-number {
+    color: #0eb91b;
+}
+span.CodeMirror-matchingbracket {
+    color: #FF00B8 !important;
+    background-color: transparent !important;
+    border-bottom: 1px solid;
+}
+.CodeMirror-selected {
+    background-color: #afc4da !important;
+}
+span.CodeMirror-selectedtext {
+    /*border: 1px solid #000000;*/
+    /*box-shadow: 0 0 0 1px black inset;*/
+    background: #afc4da;
+}
+.CodeMirror-searching {
+    background-color: transparent;
+    box-shadow: none;
+    /*border: 1px solid #999999;*/
+    box-shadow: 0 0 0 1px #999999;
+    color: ;
+}
+.cm-trailingspace {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAYAAAB/qH1jAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QUXCToH00Y1UgAAACFJREFUCNdjPMDBUc/AwNDAAAFMTAwMDA0OP34wQgX/AQBYgwYEx4f9lQAAAABJRU5ErkJggg==);
+    background-position: bottom left;
+    background-repeat: repeat-x;
+}
+.cm-tab {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAMCAYAAAAkuj5RAAAAAXNSR0IArs4c6QAAAGFJREFUSMft1LsRQFAQheHPowAKoACx3IgEKtaEHujDjORSgWTH/ZOdnZOcM/sgk/kFFWY0qV8foQwS4MKBCS3qR6ixBJvElOobYAtivseIE120FaowJPN75GMu8j/LfMwNjh4HUpwg4LUAAAAASUVORK5CYII=);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.CodeMirror-lines{
+    margin-left: 1px;
+}
+.ruler1 { border-left: 1px solid #fcc; }
+.ruler2 { border-left: 1px solid #C8C80F; }
+.ruler3 { border-left: 1px solid #cfc; }
+.ruler4 { border-left: 1px solid #aff; }
+.ruler5 { border-left: 1px solid #ccf; }
+.ruler6 { border-left: 1px solid #fcf; }
+span.cm-m-javascript.cm-property {
+    color: #445588;
+    font-weight: 200;
+}
+span.cm-m-javascript.cm-string {
+    color: #dd1144;
+}
+span.cm-keyword {
+    color: #222222;
+}
+span.cm-variable {
+    color: #06b5b5;
+}
+span.cm-number {
+    color: #95072a;
+}
+span.cm-operator {
+    color: #000;
+}
+span.cm-def {
+    color: #f414e2;
+}
+.cm-m-javascript.cm-string.cm-property {
+    color: #1f00ff;
+}
+.cm-m-javascript.cm-atom {
+    color: #7f74cc;
+}
