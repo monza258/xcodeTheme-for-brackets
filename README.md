@@ -1,5 +1,5 @@
 #xcodeTheme-for-brackets
-###An Brackets theme for a more native experience on OS X Yosemite
+An Brackets theme for a more native experience on OS X Yosemite
 
 #How to Install
 
@@ -21,6 +21,9 @@ Debug > Open Preferences File and add code line
 "showCursorWhenSelecting": true,
 "styleSelectedText": true,
 "styleActiveLine": true,
+"lineWrapping": true,
+"insertHintOnTab": true,
+"livedev.multibrowser": true,
 "lineWrapping": true,
 ```
 #ScreenShot
