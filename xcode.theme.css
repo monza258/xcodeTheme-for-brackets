@@ -81,7 +81,7 @@ span.cm-qualifier {
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier;
 }
 .CodeMirror-code {
-    margin-left: 0px;
+    margin-left: -1px;
     font-size: 14px;
     line-height: 1.20857143;
 }
