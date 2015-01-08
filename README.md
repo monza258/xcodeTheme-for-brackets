@@ -24,3 +24,7 @@ An Brackets theme for a more native experience on OS X Yosemite
 ```
 - ScreenShot
 ![ScreenShot](http://www.mediafire.com/convkey/ce88/v291fl7dk839vkezg.jpg)
+
+##Contribution
+
+ - Fork & Pull Request
