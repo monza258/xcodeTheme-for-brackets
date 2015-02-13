@@ -12,23 +12,23 @@ An Brackets theme for a more native experience on OS X Yosemite
 
 ##screenShots
 css
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/css.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/css.png)
 js
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/js.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/js.png)
 json
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/json.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/json.png)
 cs
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/cs.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/cs.png)
 html
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/html.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/html.png)
 java
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/java.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/java.png)
 py
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/py.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/py.png)
 sql
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/sql.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/sql.png)
 Markdown
-![screenShots](https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/Markdown.png)
+![screenShots](https://raw.githubusercontent.com/DH3ALEJANDRO/xcodeTheme-for-brackets/blob/master/Shots/Markdown.png)
 
 ##Add preferences
   - Debug > Open Preferences File and add code line
