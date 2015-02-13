@@ -1,10 +1,11 @@
 {
     "name": "os.xcode.theme",
-    "title": "xcode theme",
-    "description": "An Brackets theme for a more native experience on OS X Yosemite",
-    "version": "2.0.0",
+    "title": "xcode theme (yosemite) Light",
+    "description": "An Brackets theme for a more native experience on OS X Yosemite. to maximize the topic, see (https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets#user-content-add-preferences)",
+    "version": "5.1.0",
     "homepage": "https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets",
     "author": "Avril Alejandro (https://twitter.com/AVRIL_ALEJANDRO)",
+    "categories":"theme",
     "repository": {
         "type": "git",
         "url": "https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets.git"
@@ -14,8 +15,5 @@
         "dark": false,
         "addModeClass": true
     },
-    "engines": {
-        "brackets": ">=0.40.0"
-    },
-    "keywords": ["theme", "xcode", "os", "yosemite"]
+    "keywords": ["theme", "xcode", "os", "yosemite", "avril"]
 }
