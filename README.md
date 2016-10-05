@@ -7,6 +7,9 @@ An Brackets theme for a more native experience on OS X Yosemite
   - Search for this extension : "xcode theme"
   - Click Install!
 
+##Installation with ThemeInstaller app
+Find and install [ThemeInstaller](http://www.apptorium.com/products/themeinstaller) app from the Mac App Store. Open theme you want to install and it's done. Themes are visible after Xcode is restarted.
+
 ##How to Enable
   - View > Themes and selected option in > Current Theme
 
